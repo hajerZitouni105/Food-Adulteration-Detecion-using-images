@@ -19,9 +19,4 @@ The project follows these major steps:
 
 6. **Training with YOLOv8**: Conducting additional training with YOLOv8 for comparative performance analysis and potential improvements in detection accuracy and speed.
 
-## Project Structure
 
-- **`data_collection/`**: Scripts and resources for collecting and structuring door images.
-- **`annotations/`**: Annotation files in YOLO-compatible format for each image in the dataset.
-- **`yolov7_training/`**: Notebooks and scripts for training and evaluating the YOLOv7 model.
-- **`yolov8_training/`**: Additional notebooks and scripts for training and testing the YOLOv8 model.
